@@ -11,7 +11,7 @@ In the Visualizations phase, we used gradcam and guided gradcam for visualizing 
 Future Work:
 Accuracy can be improved by increasing the amount of data per each class
 Images from more number of countries can be include
-Team:
+#Team:
 1. Una Suman Kumar Patro (Product Owner)(https://www.linkedin.com/in/samsumankumar/)
 2. Chandana Narla (Scrum Master)(https://www.linkedin.com/in/chandana-narla-990285115/)
 3. Anitha Mutyala (Developer)(https://www.linkedin.com/in/anitha-mutyala-a46605112/)
