@@ -5,6 +5,7 @@ The total project consists of three parts
 1. Data Collection
 2. Data Modeling
 3. Gradcam visualizations
+/n
 In the Data Collection phase, we collected 30,000 images from Instagram, 10,000 images per country based on hypernational hashtags.
 In the Modeling phase, we used pretrained models like VGG16, ResNet50 to build binary and tertiary classifiers. We also developed a CNN model from scratch. However, the accuracy of VGG16 model is better compared to the other two models
 In the Visualizations phase, we used gradcam and guided gradcam for visualizing the features used by model for classification. We implemented gradcam on the misclassified images.
